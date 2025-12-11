@@ -8,7 +8,7 @@ Cada día se publica un nuevo problema con dos partes, que ponen a prueba la ló
 ## 📂 Estructura del repositorio
 
         AdventOfCode/
-        ├── 2023/
+        ├── 2024/
         │     ├── D01/
         │     │    ├── reto1.c
         │     │    ├── reto2.c
