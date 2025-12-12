@@ -35,6 +35,14 @@ Código
 
 ## 🚀 Cómo ejecutar las soluciones
 
+
+Ejemplo en C:
+
+```bash
+gcc reto1.c -o reto1
+./reto1 < input.txt
+```
+
 Ejemplo en C++:
 
 ```bash
@@ -49,3 +57,4 @@ python3 reto1.py < input.txt
 - Mejorar la claridad y accesibilidad de las soluciones con Markdown y comentarios.
 
 - Compartir aprendizajes con otros programadores.
+
