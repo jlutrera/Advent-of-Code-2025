@@ -38,18 +38,14 @@ Código
 Ejemplo en C++:
 
 ```bash
-g++ day01/part1.cpp -o day01_part1
-./day01_part1 < input.txt
+g++ reto1.cpp -o reto1
+./reto1 < input.txt
 ```
 
 Ejemplo en Python:
 ```bash
-python3 day01/part1.py < input.txt
+python3 reto1.py < input.txt
 ```
-
-## ✨ Objetivos del repositorio
-
-- Documentar mi progreso en Advent of Code.
-- Practicar algoritmos y estructuras de datos.
 - Mejorar la claridad y accesibilidad de las soluciones con Markdown y comentarios.
+
 - Compartir aprendizajes con otros programadores.
